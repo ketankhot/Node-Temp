@@ -1,0 +1,1 @@
+Hello from the server and return the result from the server as a string or an error message if the server returned an error message.
